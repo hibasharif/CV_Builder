@@ -1,0 +1,21 @@
+# Next.js
+.next/
+out/
+node_modules/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# Prisma
+prisma/migrations/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.tsbuildinfo
